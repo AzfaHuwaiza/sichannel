@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+BANTUDAGANG.com	TRUE	/	FALSE	1999999999	pvc_visits[0]	1716993508b2244a1716993525b1742a1716993555b2082
+BANTUDAGANG.com	TRUE	/	FALSE	1999999999	SameSite	LAX
+

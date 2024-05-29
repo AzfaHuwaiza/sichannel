@@ -1,0 +1,155 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 28 May 2024 21:34:37 at https://BANTUDAGANG.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://BANTUDAGANG.com/ -O "/home/nehphren/kwu/omnichanel1" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:35:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/tr?id=280262567976546&ev=PageView&noscript=1
+21:37:31	Warning: 	Moved Permanently for static.addtoany.com/robots.txt
+21:37:31	Warning: 	Redirected link is identical because of 'URL Hack' option: static.addtoany.com/robots.txt and https://static.addtoany.com/robots.txt
+21:37:31	Warning: 	Warning moved treated for static.addtoany.com/robots.txt (real one is https://static.addtoany.com/robots.txt)
+21:37:31	Warning: 	Moved Permanently for static.addtoany.com/
+21:37:31	Warning: 	Redirected link is identical because of 'URL Hack' option: static.addtoany.com/ and https://static.addtoany.com/
+21:37:31	Warning: 	File has moved from static.addtoany.com/ to https://static.addtoany.com/
+21:37:33	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://BANTUDAGANG.com/)
+21:38:55	Warning: 	Warning: store text/html without scan: /home/nehphren/kwu/omnichanel1/gmpg.org/xfn/.html
+21:38:55	Error: 	"Not Found" (404) at link https://gmpg.org/xfn/intro (from https://gmpg.org/xfn/11)
+21:38:55	Error: 	"Not Found" (404) at link https://gmpg.org/xfn/faq (from https://gmpg.org/xfn/11)
+21:38:55	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=435
+21:38:55	Warning: 	File has moved from https://BANTUDAGANG.com/?p=435 to https://BANTUDAGANG.com/price-products/
+21:38:55	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=15
+21:38:55	Warning: 	File has moved from https://BANTUDAGANG.com/?p=15 to https://BANTUDAGANG.com/about-us/
+21:38:55	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=17
+21:38:55	Warning: 	File has moved from https://BANTUDAGANG.com/?p=17 to https://BANTUDAGANG.com/contact-us/
+21:38:55	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=1617
+21:38:55	Warning: 	File has moved from https://BANTUDAGANG.com/?p=1617 to https://BANTUDAGANG.com/help/
+21:38:55	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/store (from https://BANTUDAGANG.com/help/)
+21:39:26	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=2244
+21:39:26	Warning: 	File has moved from https://BANTUDAGANG.com/?p=2244 to https://BANTUDAGANG.com/membuat-toko-online-langkah-awal-berjualan-online/
+21:39:26	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=2082
+21:39:26	Warning: 	File has moved from https://BANTUDAGANG.com/?p=2082 to https://BANTUDAGANG.com/8-tips-sukses-berjualan-di-marketplace-bikin-omzet-melesat/
+21:39:26	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=1742
+21:39:26	Warning: 	File has moved from https://BANTUDAGANG.com/?p=1742 to https://BANTUDAGANG.com/omnichannel-marketplace-fungsi-manfaat-dan-cara-kerjanya/
+21:39:27	Warning: 	HTML file (622 bytes) retransferred due to lack of cache: static.addtoany.com/
+21:39:27	Warning: 	HTML file (56772 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/feed/
+21:39:27	Warning: 	HTML file (1047 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/comments/feed/
+21:39:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+21:39:28	Warning: 	Moved Permanently for static.addtoany.com/
+21:39:28	Warning: 	Redirected link is identical because of 'URL Hack' option: static.addtoany.com/ and https://static.addtoany.com/
+21:39:28	Warning: 	File has moved from static.addtoany.com/ to https://static.addtoany.com/
+21:39:29	Warning: 	HTML file (247783 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/wp-json/
+21:39:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/pages/2121
+21:39:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+21:39:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.12.2
+21:40:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/xmlrpc.php?rsd
+21:40:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2F
+21:40:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2F&format=xml
+21:40:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/winp-css-js/218.js?ver=1692686355
+21:41:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.7.2
+21:41:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1714487122
+21:41:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2302
+21:41:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap.js?ver=2.1.3
+21:41:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints.js?ver=2.1.3
+21:41:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min.js?ver=2.1.3
+21:41:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min.js?ver=8.4.5
+21:41:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+21:41:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.6
+21:41:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/js/htmega-widgets-active.js?ver=2.1.3
+21:41:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+21:41:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.12.2
+21:41:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.12.2
+21:41:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.12.2
+21:41:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+21:41:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+21:41:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+21:42:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+21:42:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+21:42:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.2
+21:42:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+21:42:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+21:42:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.2
+21:42:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.12.2
+21:42:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/pages/435
+21:42:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fprice-products%2F&format=xml
+21:42:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fprice-products%2F
+21:42:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1693913761
+21:43:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fabout-us%2F&format=xml
+21:43:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fabout-us%2F
+21:43:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/pages/15
+21:43:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1692710643
+21:43:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/pages/17
+21:43:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fcontact-us%2F
+21:43:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1689221226
+21:43:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fcontact-us%2F&format=xml
+21:43:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/pages/1617
+21:43:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fhelp%2F
+21:43:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fhelp%2F&format=xml
+21:43:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1695648394
+21:43:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1690797328
+21:43:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0
+21:43:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.1.3.1
+21:43:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/jet-smart-filters/assets/js/public.js?ver=3.1.0
+21:43:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+21:43:13	Warning: 	HTML file (1178 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/membuat-toko-online-langkah-awal-berjualan-online/feed/
+21:43:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fmembuat-toko-online-langkah-awal-berjualan-online%2F
+21:43:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fmembuat-toko-online-langkah-awal-berjualan-online%2F&format=xml
+21:43:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/posts/2244
+21:43:17	Warning: 	HTML file (43780 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/category/tips-trick/feed/
+21:43:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/categories/15
+21:43:19	Warning: 	HTML file (1205 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/8-tips-sukses-berjualan-di-marketplace-bikin-omzet-melesat/feed/
+21:43:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/posts/2082
+21:43:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2F8-tips-sukses-berjualan-di-marketplace-bikin-omzet-melesat%2F
+21:43:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1692884952
+21:43:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2F8-tips-sukses-berjualan-di-marketplace-bikin-omzet-melesat%2F&format=xml
+21:43:23	Warning: 	HTML file (1170 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/omnichannel-marketplace-fungsi-manfaat-dan-cara-kerjanya/feed/
+21:43:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/posts/1742
+21:43:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fomnichannel-marketplace-fungsi-manfaat-dan-cara-kerjanya%2F
+21:43:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/uploads/essential-addons-elementor/eael-986.js?ver=1692885040
+21:43:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2FBANTUDAGANG.com%2Fomnichannel-marketplace-fungsi-manfaat-dan-cara-kerjanya%2F&format=xml
+21:43:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+21:43:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-json/wp/v2/categories/16
+21:43:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+21:43:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+21:43:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+21:43:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+21:43:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+21:43:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+21:43:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+21:43:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://BANTUDAGANG.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+21:44:29	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://BANTUDAGANG.com/)
+21:44:39	Warning: 	Warning: store text/css without scan: /home/nehphren/kwu/omnichanel1/gmpg.org/xfn/default.css
+21:44:40	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=435
+21:44:41	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=435
+21:44:41	Warning: 	File has moved from https://BANTUDAGANG.com/?p=435 to https://BANTUDAGANG.com/price-products/
+21:44:42	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=15
+21:44:43	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=15
+21:44:43	Warning: 	File has moved from https://BANTUDAGANG.com/?p=15 to https://BANTUDAGANG.com/about-us/
+21:44:43	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=17
+21:44:44	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=17
+21:44:44	Warning: 	File has moved from https://BANTUDAGANG.com/?p=17 to https://BANTUDAGANG.com/contact-us/
+21:44:44	Warning: 	HTML file (759 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=1617
+21:44:45	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=1617
+21:44:45	Warning: 	File has moved from https://BANTUDAGANG.com/?p=1617 to https://BANTUDAGANG.com/help/
+21:44:45	Warning: 	HTML file (97541 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/store
+21:44:46	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/store (from https://BANTUDAGANG.com/help/)
+21:44:46	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=2244
+21:44:47	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=2244
+21:44:47	Warning: 	File has moved from https://BANTUDAGANG.com/?p=2244 to https://BANTUDAGANG.com/membuat-toko-online-langkah-awal-berjualan-online/
+21:44:47	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=2082
+21:44:48	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=2082
+21:44:48	Warning: 	File has moved from https://BANTUDAGANG.com/?p=2082 to https://BANTUDAGANG.com/8-tips-sukses-berjualan-di-marketplace-bikin-omzet-melesat/
+21:44:48	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/?p=1742
+21:44:49	Warning: 	Moved Permanently for https://BANTUDAGANG.com/?p=1742
+21:44:49	Warning: 	File has moved from https://BANTUDAGANG.com/?p=1742 to https://BANTUDAGANG.com/omnichannel-marketplace-fungsi-manfaat-dan-cara-kerjanya/
+21:44:49	Warning: 	HTML file (14559 bytes) retransferred due to lack of cache: https://BANTUDAGANG.com/category/updates/feed/
+21:44:50	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:44:50	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:44:50	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+21:44:50	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:44:50	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/css/img/others/business-shape.png (from https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets.css?ver=2.1.3)
+21:44:50	Error: 	"Not Found" (404) at link https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/css/img/bg/bg-image-40.jpg (from https://BANTUDAGANG.com/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets.css?ver=2.1.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 13 seconds : 369 links scanned, 452 files written (36242076 bytes overall) [17983100 bytes received at 29336 bytes/sec], 20753684 bytes transferred using HTTP compression in 261 files, ratio 30%, 5.0 requests per connection
+(12 errors, 132 warnings, 0 messages)
